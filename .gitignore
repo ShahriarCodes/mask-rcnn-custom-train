@@ -1,3 +1,7 @@
+# download it 
+mask_rcnn_coco.h5
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
